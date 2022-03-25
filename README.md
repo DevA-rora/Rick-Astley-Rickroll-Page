@@ -1,2 +1,6 @@
 # Rick-Astley-Rickroll-Page
-Me learning how to use VSCode and HTML
+I made this as a coding project to somewhat recreate the rick roll page from YouTube using only HTML.
+
+The finished project is the results (not finished yet)
+
+
