@@ -6,6 +6,6 @@
 
     <body>
         <button onclick="Function()">Text</button>
-        <button onclick="Function2()">Text</button>
+        <button onclick="MoreButton()">Text</button>
     </body>
 </html>
